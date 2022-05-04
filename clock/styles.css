@@ -1,0 +1,24 @@
+body{
+    background-color: #666a86;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1{
+    position: absolute;
+    left: 28%;
+    top: 15%;
+    font-size: 60px;
+    color: #92b6b1;
+}
+
+.clock {
+position: absolute;
+top: 50%;
+left: 50%;
+transform:
+translateX(-50%)
+translateY(-50%);
+color: #e8ddb5;
+font-size: 55px;
+letter-spacing: 6px; 
+}
